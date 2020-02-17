@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577753637 source:c:\users\drew\onedrive\documents\cplusplus\standardexceptions\main.cpp
+	<iostream>
+	<stdexcept>
+
