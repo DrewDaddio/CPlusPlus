@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582410842 source:c:\users\drew\onedrive\documents\cplusplus\classes-basics\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+
