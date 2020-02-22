@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582344642 source:c:\users\drew\onedrive\documents\cplusplus\stls\main.cpp
+	<iostream>
+	<vector>
+	<deque>
+	<string>
+	<map>
+	<functional>
+	<cmath>
+
