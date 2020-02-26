@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582498297 source:c:\users\drew\onedrive\documents\cplusplus\decomposition\src\date.cpp
+	"Date.h"
+
+1582498297 c:\users\drew\onedrive\documents\cplusplus\decomposition\include\date.h
+	<iostream>
+
